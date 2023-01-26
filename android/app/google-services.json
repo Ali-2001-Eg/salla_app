@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "34431704179",
+    "project_id": "first-udemy-app",
+    "storage_bucket": "first-udemy-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34431704179:android:60ad0cd6ecbc3d78575e06",
+        "android_client_info": {
+          "package_name": "com.example.ali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34431704179-lm4ubfltjrg910u9hck052em6779gpi4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ali",
+            "certificate_hash": "39123bf8f72f168228218761e96e666229810458"
+          }
+        },
+        {
+          "client_id": "34431704179-kri2lgqf1pe2qii9ck9rekcphndq1opt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMIuGNv2YR0kuBUy30SBQBK8mB_z9OjHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34431704179-kri2lgqf1pe2qii9ck9rekcphndq1opt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
